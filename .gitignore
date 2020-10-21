@@ -21,3 +21,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Custom
+
+.scannerwork/
+.settings/
+*.swp
+*.so
+.DS_Store
+/target/
+.classpath
+.project
+.metadata
+
+
+#exclude files eclipse plug
+.pmd
+.checkstyle
+.ruleset
+/site/
+
